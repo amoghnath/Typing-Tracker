@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+}
+
+p {
+  display: inline;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color:#ffffff;
+  color: #000000;
+}
+

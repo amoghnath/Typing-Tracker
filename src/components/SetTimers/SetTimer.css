@@ -1,0 +1,8 @@
+.timerContainer {
+	float: right;
+	margin-top: 30px;
+}
+
+.timerContainer > button {
+	border: none;
+}
